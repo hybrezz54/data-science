@@ -1,0 +1,16 @@
+https://towardsdatascience.com/beginners-guide-to-encoding-data-5515da7f56ab
+https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673
+https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/
+https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35
+https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7
+https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/
+https://towardsdatascience.com/logistic-regression-model-tuning-with-scikit-learn-part-1-425142e01af5
+https://www.statisticssolutions.com/assumptions-of-logistic-regression/
+https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff
+https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/
+https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+https://www.statisticssolutions.com/assumptions-of-linear-regression/
+https://towardsdatascience.com/beginners-guide-to-encoding-data-5515da7f56ab
+https://towardsdatascience.com/logistic-regression-model-tuning-with-scikit-learn-part-1-425142e01af5
+https://towardsdatascience.com/evaluation-metrics-model-selection-in-linear-regression-73c7573208be
