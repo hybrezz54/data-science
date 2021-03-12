@@ -14,3 +14,5 @@ https://www.statisticssolutions.com/assumptions-of-linear-regression/
 https://towardsdatascience.com/beginners-guide-to-encoding-data-5515da7f56ab
 https://towardsdatascience.com/logistic-regression-model-tuning-with-scikit-learn-part-1-425142e01af5
 https://towardsdatascience.com/evaluation-metrics-model-selection-in-linear-regression-73c7573208be
+https://stackabuse.com/linear-regression-in-python-with-scikit-learn/
+https://www.kaggle.com/rtatman/datasets-for-regression-analysis
