@@ -1,3 +1,4 @@
+# supervised learning
 https://towardsdatascience.com/beginners-guide-to-encoding-data-5515da7f56ab
 https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673
 https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/
@@ -16,3 +17,26 @@ https://towardsdatascience.com/logistic-regression-model-tuning-with-scikit-lear
 https://towardsdatascience.com/evaluation-metrics-model-selection-in-linear-regression-73c7573208be
 https://stackabuse.com/linear-regression-in-python-with-scikit-learn/
 https://www.kaggle.com/rtatman/datasets-for-regression-analysis
+https://towardsdatascience.com/a-brief-introduction-to-supervised-learning-54a3e3932590
+https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
+https://jmyao17.github.io/Kaggle/California_Housing_Prices.html+
+https://towardsdatascience.com/ml-101-linear-regression-bea0f489cf54
+https://medium.com/vickdata/a-simple-guide-to-scikit-learn-pipelines-4ac0d974bdcf
+
+# unsupervised learning
+https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a
+https://builtin.com/data-science/unsupervised-learning-python
+https://towardsdatascience.com/a-comparison-between-k-means-clustering-and-expectation-maximization-estimation-for-clustering-8c75a1193eb7
+https://towardsdatascience.com/machine-learning-for-beginners-d247a9420dab
+https://medium.com/@rinu.gour123/introduction-to-dimensionality-reduction-55d1545fd35d
+https://towardsdatascience.com/an-introduction-to-dimensionality-reduction-e873449c865
+https://towardsdatascience.com/an-introduction-to-dimenstionality-reduction-8c7d1c80737d
+https://medium.datadriveninvestor.com/pros-cons-of-dimensionality-reduction-f843cad3953a
+https://towardsdatascience.com/principal-component-analysis-intro-61f236064b38
+https://towardsdatascience.com/introduction-to-principle-component-analysis-d705d27b88b6
+https://machinelearningmastery.com/linear-discriminant-analysis-for-dimensionality-reduction-in-python/
+https://www.datacamp.com/community/tutorials/introduction-t-sne
+https://towardsdatascience.com/dimensionality-reduction-ways-and-intuitions-1b5e97592d8e
+https://blog.dataiku.com/dimensionality-reduction-how-it-works-in-plain-english
+https://towardsdatascience.com/what-why-and-how-of-t-sne-1f78d13e224d
+https://towardsdatascience.com/explaining-k-means-clustering-5298dc47bad6
